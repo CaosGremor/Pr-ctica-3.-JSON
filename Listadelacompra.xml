@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  
+  <Supermercados>
+
+
+    <nombre>Mercadona</nombre>
+    <dirección>C. de Francisco Madariaga, 3</dirección>
+    <código_postal>28017</código_postal>
+    <localidad>Madrid</localidad>
+    <geolocalización>40.434694, -3.642319</geolocalización>
+    <departamento>
+      <Panadería_y_pastelería>
+        <producto>Pan de trigo espelta 100% rebanado</producto>
+        <oferta>2ª unidad  -50%</oferta>
+        <unidad>2</unidad>
+        <precio>1,35€/unidad</precio>
+        <periodo_de_vigencia>20 de Abril</periodo_de_vigencia>
+        <unidad_de_medida>gramos</unidad_de_medida>
+        <producto_habitual>true</producto_habitual>
+        <producto_adquirido>true</producto_adquirido>
+      </Panadería_y_pastelería>
+    </departamento>
+    <departamento>
+      <Congelados>
+        <producto>Merluza empanada pan fino Hacendado ultracongelada</producto>
+        <oferta>2x1</oferta>
+        <unidad>2</unidad>
+        <precio>4,20€/unidad</precio>
+        <periodo_de_vigencia>15 de Abril</periodo_de_vigencia>
+        <unidad_de_medida>gramos</unidad_de_medida>
+        <producto_habitual>false</producto_habitual>
+        <producto_adquirido>true</producto_adquirido>
+      </Congelados>
+    </departamento>
+    <departamento>
+      <Zumos>
+        <producto>Fruta + leche tropical Hacendado</producto>
+        <oferta>Sin oferta</oferta>
+        <unidad>4</unidad>
+        <precio>1,25€/pack</precio>
+        <periodo_de_vigencia>15 de Mayo 2024</periodo_de_vigencia>
+        <unidad_de_medida>Mililitros</unidad_de_medida>
+        <producto_habitual>true</producto_habitual>
+        <producto_adquirido>true</producto_adquirido>
+      </Zumos>
+    </departamento>
+    
+  
+    <nombre>Aldi</nombre>
+    <dirección>C. de Alcalá, 380</dirección>
+    <código_postal>28027</código_postal>
+    <localidad>Madrid</localidad>
+    <geolocalización>40.435994, -3.641905</geolocalización>
+    <departamento>
+      <Fruta_y_verduras>
+        <producto>Uva de mesa roja sin semillas</producto>
+        <oferta>-25%</oferta>
+        <unidad>1</unidad>
+        <precio>2,39€</precio>
+        <periodo_de_vigencia>10 de Mayo</periodo_de_vigencia>
+        <unidad_de_medida>gramos</unidad_de_medida>
+        <producto_habitual>false</producto_habitual>
+        <producto_adquirido>true</producto_adquirido>
+      </Fruta_y_verduras>
+    </departamento>
+    <departamento>
+      <Carnicería>
+        <producto>Pinchos de pollo adobados con verduras</producto>
+        <oferta>-15%</oferta>
+        <unidad>1</unidad>
+        <precio>3,37€/unidad</precio>
+        <periodo_de_vigencia>30 de Abril</periodo_de_vigencia>
+        <unidad_de_medida>gramos</unidad_de_medida>
+        <producto_habitual>false</producto_habitual>
+        <producto_adquirido>false</producto_adquirido>
+      </Carnicería>
+    </departamento>
+    <departamento>
+      <Droguería>
+        <producto>perlas perfumadas para la ropa</producto>
+        <oferta>Sin oferta</oferta>
+        <unidad>1</unidad>
+        <precio>6,44€</precio>
+        <periodo_de_vigencia>No caduca</periodo_de_vigencia>
+        <unidad_de_medida>gramos</unidad_de_medida>
+        <producto_habitual>true</producto_habitual>
+        <producto_adquirido>true</producto_adquirido>
+      </Droguería>
+    </departamento>
+   
+    
+    <nombre>Carrefour Market</nombre>
+    <dirección>C. de Alcalá, 396</dirección>
+    <código_postal>28027</código_postal>
+    <localidad>Madrid</localidad>
+    <geolocalización>40.436739, -3.640412</geolocalización>
+    <departamento>
+      <Envasados>
+        <producto>Atún claro en aceite de oliva Calvo pack de 3 unidades de 52 g</producto>
+        <oferta>2x1</oferta>
+        <unidad>2</unidad>
+        <precio>4,35€/pack</precio>
+        <periodo_de_vigencia>20 de septiembre 2026</periodo_de_vigencia>
+        <unidad_de_medida>gramos</unidad_de_medida>
+        <producto_habitual>true</producto_habitual>
+        <producto_adquirido>true</producto_adquirido>
+      </Envasados>
+    </departamento>
+    <departamento>
+      <Perfumería_e_Higiene>
+        <producto>Dentífrico con flúor de uso diario Complete Protección Original Parodontax</producto>
+        <oferta>Sin oferta</oferta>
+        <unidad>1</unidad>
+        <precio>5,49€/unidad</precio>
+        <periodo_de_vigencia>28 de noviembre 2025</periodo_de_vigencia>
+        <unidad_de_medida>Mililitros</unidad_de_medida>
+        <producto_habitual>true</producto_habitual>
+        <producto_adquirido>false</producto_adquirido>
+      </Perfumería_e_Higiene>
+    </departamento>
+    <departamento>
+      <Limpieza_y_hogar>
+        <producto>Ambientador aerosol de flores de cerezo de Asia Pure Air Wick</producto>
+        <oferta>2x1</oferta>
+        <unidad>2</unidad>
+        <precio>5,35€</precio>
+        <periodo_de_vigencia>30 de Octubre 2026</periodo_de_vigencia>
+        <unidad_de_medida>Mililitros</unidad_de_medida>
+        <producto_habitual>false</producto_habitual>
+        <producto_adquirido>false</producto_adquirido>
+      </Limpieza_y_hogar>
+    </departamento>
+   
+    
+    </Supermercados>

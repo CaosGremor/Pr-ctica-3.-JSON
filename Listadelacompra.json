@@ -1,0 +1,159 @@
+{
+    "Supermercados": [
+        {
+            "nombre": "Mercadona",  
+            "dirección": "C. de Francisco Madariaga, 3",
+            "código postal":"28017",
+            "localidad":"Madrid",
+            "geolocalización": "40.434694, -3.642319",
+            "departamento": [
+                {
+                    "Panadería y pastelería": [
+                        {
+                            "producto": "Pan de trigo espelta 100% rebanado",
+                            "oferta": "2ª unidad  -50%",
+                            "periodo de vigencia": "20 de Abril",
+                            "unidad": "2",
+                            "unidad de medida": "gramos",
+                            "precio": "1,35€/unidad",
+                            "producto habitual": true,
+                            "producto adquirido": true
+                        }                  
+                    ]
+                },
+                {
+                    "Congelados": [
+                        {
+                            "producto": "Merluza empanada pan fino Hacendado ultracongelada",
+                            "oferta": "2x1",
+                            "periodo de vigencia": "15 de Abril",
+                            "unidad": "2",
+                            "unidad de medida": "gramos",
+                            "precio": "4,20€/unidad",
+                            "producto habitual": false,
+                            "producto adquirido": true
+                        }
+                    ]
+                },
+                {
+                    "Zumos": [
+                        {
+                            "producto": "Fruta + leche tropical Hacendado",
+                            "oferta": "Sin oferta",
+                            "periodo de vigencia": "15 de Mayo 2024",
+                            "unidad": "4",
+                            "unidad de medida": "Mililitros",
+                            "precio": "1,25€/pack",
+                            "producto habitual": true,
+                            "producto adquirido": true
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "nombre": "Aldi",  
+            "dirección": "C. de Alcalá, 380",
+            "código postal": "28027",
+            "localidad": "Madrid",
+            "geolocalización": "40.435994, -3.641905",
+            "departamento": [
+                {
+                    "Fruta y verduras": [
+                        {
+                            "producto": "Uva de mesa roja sin semillas",
+                            "oferta": "-25%",
+                            "periodo de vigencia": "10 de Mayo",
+                            "unidad": "1",
+                            "unidad de medida": "gramos",
+                            "precio": "2,39€",
+                            "producto habitual": false,
+                            "producto adquirido": true
+                        }                  
+                    ]
+                },
+                {
+                    "Carnicería": [
+                        {
+                            "producto": "Pinchos de pollo adobados con verduras",
+                            "oferta": "-15%",
+                            "periodo de vigencia": "30 de Abril",
+                            "unidad": "1",
+                            "unidad de medida": "gramos",
+                            "precio": "3,37€/unidad",
+                            "producto habitual": false,
+                            "producto adquirido": false
+                        }
+                    ]
+                },
+                {
+                    "Droguería": [
+                        {
+                            "producto": "perlas perfumadas para la ropa",
+                            "oferta": "Sin oferta",
+                            "periodo de vigencia": "No caduca",
+                            "unidad": "1",
+                            "unidad de medida": "gramos",
+                            "precio": "6,44€",
+                            "producto habitual": true,
+                            "producto adquirido": true
+                         }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "nombre": "Carrefour Market",  
+            "dirección": "C. de Alcalá, 396",
+            "código postal": "28027",
+            "localidad": "Madrid",
+            "geolocalización": "40.436739, -3.640412",
+            "departamento": [
+                {
+                    "Envasados": [
+                        {
+                            "producto": "Atún claro en aceite de oliva Calvo pack de 3 unidades de 52 g",
+                            "oferta": "2x1",
+                            "periodo de vigencia": "20 de septiembre 2026",
+                            "unidad": "2",
+                            "unidad de medida": "gramos",
+                            "precio": "4,35€/pack",
+                            "producto habitual": true,
+                            "producto adquirido": true
+                        }                  
+                    ]
+                },
+                {
+                    "Perfumería e Higiene": [
+                        {
+                            "producto": "Dentífrico con flúor de uso diario Complete Protección Original Parodontax",
+                            "oferta": "Sin oferta",
+                            "periodo de vigencia": "28 de noviembre 2025",
+                            "unidad": "1",
+                            "unidad de medida": "Mililitros",
+                            "precio": "5,49€/unidad",
+                            "producto habitual": true,
+                            "producto adquirido": false
+                        }                  
+                    ]
+                },
+                {
+                    "Limpieza y hogar": [
+                        {
+                            "producto": "Ambientador aerosol de flores de cerezo de Asia Pure Air Wick",
+                            "oferta": "2x1",
+                            "periodo de vigencia": "30 de Octubre 2026",
+                            "unidad": "2",
+                            "unidad de medida": "Mililitros",
+                            "precio": "5,35€",
+                            "producto habitual": false,
+                            "producto adquirido": false
+                        }                  
+                    ]
+                }
+            ]
+        }
+]
+}
